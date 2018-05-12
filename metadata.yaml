@@ -1,0 +1,40 @@
+_repo: The-Oriental-Republic-of-Uruguay-at-the-World-s-Columbian-Exhibition-Chicago-1893_42879
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Réthoré, Jean-Jacques
+    alias: Rethore, Jean-Jacques
+    gutenberg_agent_id: '41905'
+    url: http://www.gutenberg.org/2009/agents/41905
+covers:
+- cover_type: archival
+  image_path: 42879-h/images/coverpage.jpg
+creator:
+  authors:
+  - agent_name: Roustan, Honore
+    gutenberg_agent_id: '41904'
+    url: http://www.gutenberg.org/2009/agents/41904
+  - agent_name: Pena, Carlos María de
+    alias: Pena, Carlos Maria de
+    birthdate: 1852
+    deathdate: 1918
+    gutenberg_agent_id: '41903'
+    url: http://www.gutenberg.org/2009/agents/41903
+description: ''
+gutenberg_issued: '2013-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uruguay -- Maps'
+- !lcc 'F2701'
+- !lcsh 'Exhibition catalogs'
+- !lcsh 'Uruguay'
+- !lcsh 'World''s Columbian Exposition (1893 : Chicago, Ill.)'
+title: The Oriental Republic of Uruguay at the World's Columbian Exhibition, Chicago,
+  1893
+url: http://www.gutenberg.org/ebooks/42879
