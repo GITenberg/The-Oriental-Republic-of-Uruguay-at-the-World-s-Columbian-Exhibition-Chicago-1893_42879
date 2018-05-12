@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '41903'
     url: http://www.gutenberg.org/2009/agents/41903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42879#The-Oriental-Republic-of-Uruguay-at-the-World-s-Columbian-Exhibition-Chicago-1893
 gutenberg_issued: '2013-06-05'
 gutenberg_type: Text
 identifiers:
